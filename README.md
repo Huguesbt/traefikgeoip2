@@ -1,5 +1,8 @@
 # Traefik plugin for MaxMind GeoIP2
 
+> [!IMPORTANT]
+> This project is looking for maintainers. Please comment in [this issue](https://github.com/traefik-plugins/traefik-jwt-plugin/issues/82)
+
 [Traefik](https://doc.traefik.io/traefik/) plugin 
 that registers a custom middleware 
 for getting data from 
